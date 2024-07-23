@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ansh Singh</h1>
+<h1 align="center">Hi 👋, I'm Ansh Singh Kushwaha</h1>
 <h3 align="center">A passionate Android and Web Developer from India</h3>
 
 - 🌱 I’m currently learning **Nodejs,Python**
