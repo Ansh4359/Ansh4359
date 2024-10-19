@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ansh Singh Kushwaha</h1>
 <h3 align="center">A passionate Android/IOS App and Web Developer from India</h3>
 
-- 🌱 I’m currently learning **Nodejs,Python**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python,C++**
 
 - 📫 How to reach me **anshsingh4359@gmail.com**
 
